@@ -61,7 +61,8 @@
           "style": "plain",
           "foreground": "#CECE04",
           "properties": {
-            "prefix": ""
+            "prefix": "",
+            "root_icon": "\u26A1"
           }
         },
         {
